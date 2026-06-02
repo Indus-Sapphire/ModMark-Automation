@@ -25,5 +25,10 @@ Repetitive clicking during high-volume marking sessions frequently leads to user
 3. Run `python modmark_gui.py`
 4. Use the UI to set your target coordinates and begin marking.
 
+## Important Disclaimer
+This tool was developed independently to assist with personal accessibility and workflow efficiency. It is not affiliated with, endorsed by, or supported by Pearson or any other educational assessment organisation. 
+
+Users are strictly responsible for verifying that the use of local accessibility macros and automated UI interactions does not violate their specific employment contracts, terms of service, or institutional IT policies before use. The developer accepts no liability for any automated system flags, account suspensions, or contractual disputes arising from the use of this software.
+
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](link-to-license) - meaning it is free to use and modify for personal workflow improvement, but cannot be used or distributed for commercial profit.
