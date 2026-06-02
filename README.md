@@ -5,6 +5,16 @@ A lightweight, open-source desktop application designed to optimise the workflow
 
 Repetitive clicking during high-volume marking sessions frequently leads to user fatigue and repetitive strain injuries (RSI). This tool solves that bottleneck by translating GUI interactions into customisable keyboard hotkeys. It also features a live analytics dashboard to gamify the marking process and track session efficiency.
 
+## Installation & Usage
+
+*(For colleagues and non-technical users, a compiled `.exe` is available in the [Releases] tab.)*
+
+(Don't worry about this part if you just want to use the programme):
+1. Clone this repository.
+2. Install the required dependencies: `pip install pyautogui keyboard`
+3. Run `python modmark_gui.py`
+4. Use the UI to set your target coordinates and begin marking.
+
 ## Key Features
 * **Dynamic Auto-Calibration:** A user-friendly, 3-second delay mechanism allowing non-technical users to easily map their specific screen coordinates without touching the code.
 * **Custom Key Binding:** Users can define their own hotkeys for standard marks (e.g., 0, 1, and N/A).
@@ -16,14 +26,6 @@ Repetitive clicking during high-volume marking sessions frequently leads to user
 * `tkinter` (Graphical User Interface)
 * `pyautogui` (Coordinate mapping and macro execution)
 * `keyboard` (Global hotkey listening)
-
-## Installation & Usage
-*(For colleagues and non-technical users, a compiled `.exe` is available in the [Releases] tab.)*
-
-1. Clone this repository.
-2. Install the required dependencies: `pip install pyautogui keyboard`
-3. Run `python modmark_gui.py`
-4. Use the UI to set your target coordinates and begin marking.
 
 ## Important Disclaimer
 This tool was developed independently to assist with personal accessibility and workflow efficiency. It is not affiliated with, endorsed by, or supported by Pearson or any other educational assessment organisation. 
