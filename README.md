@@ -7,7 +7,7 @@ Repetitive clicking during high-volume marking sessions frequently leads to user
 
 ## Installation & Usage
 
-*(For colleagues and non-technical users, a compiled `.exe` is available in the [Releases] tab.)*
+***(For colleagues and non-technical users, a compiled `.exe` is available in the [Releases] tab.)***
 
 (Don't worry about this part if you just want to use the programme):
 1. Clone this repository.
