@@ -9,7 +9,7 @@ Repetitive clicking during high-volume marking sessions frequently leads to user
 
 ***(For colleagues and non-technical users, a compiled `.exe` is available in the [Releases] tab.)***
 
-(Don't worry about this part if you just want to use the programme):
+**Ignore the following part** if you just want to use the programme:
 1. Clone this repository.
 2. Install the required dependencies: `pip install pyautogui keyboard`
 3. Run `python modmark_gui.py`
