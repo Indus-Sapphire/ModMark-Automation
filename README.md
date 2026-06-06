@@ -1,5 +1,9 @@
 # ModMark-Automation
 
+<p align="center">
+<img width="313" height="502" alt="Screenshot 2026-06-06 204212" src="https://github.com/user-attachments/assets/8c7f9bff-0dd8-4fce-864d-2c1087216079" />
+</p>
+
 ## Overview
 A lightweight, open-source desktop application designed to optimise the workflow for clerical markers using educational assessment platforms. 
 
